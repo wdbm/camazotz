@@ -6,6 +6,12 @@ C code in Python code
 
 Camazotz compiles and loads C code in Python code. Specifically, it enables insertion of C code directly into Python files, which can be dynamically linked and called via ctypes.
 
+# setup
+
+```Bash
+pip install camazotz
+```
+
 # usage
 
 
